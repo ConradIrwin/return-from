@@ -1,0 +1,2 @@
+*.rewritten.go
+/rewrite
